@@ -1,10 +1,10 @@
 {
   "version": "v0.1.0",
   "notes": "Initial release of CSTracker",
-  "pub_date": "2026-07-17T12:00:00Z",
+  "pub_date": "2026-07-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PLACE_YOUR_SIG_FILE_CONTENTS_HERE",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUktoN213VzNzbk9Mbm40czZpbGVacGtmeHRYOW1od1djMXJ4S1dIRGNDcTVVaUZ0cXI1WTZCaDY2OFJBandPMjNjUmxBZElwaGdpTjRnR3FwU3Q3N2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzkzMDQzCWZpbGU6dGF1cmktYXBwXzAuMS4wX3g2NF9lbi1VUy5tc2kKQ041SHpLdE5uUE02NnAzNWk0VVY0Zm94Q0VYMXlCbVZXa0RnYTg0djhXa3pVSzg2S2F1NXBvYkFGOG5qSldPR0hiNW9UaENzclhyZTBYY2ZFekpmQ1E9PQo=",
       "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.1.0/tauri-app_0.1.0_x64_en-US.msi"
     }
   }
