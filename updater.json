@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.0",
-  "notes": "Initial release of CSTracker",
-  "pub_date": "2026-07-18T00:00:00Z",
+  "version": "0.1.0",
+  "notes": "CSTracker Initial Release v0.1.0 - Ready for User Acceptance Testing",
+  "pub_date": "2026-08-10T17:35:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUktoN213VzNzbk9Mbm40czZpbGVacGtmeHRYOW1od1djMXJ4S1dIRGNDcTVVaUZ0cXI1WTZCaDY2OFJBandPMjNjUmxBZElwaGdpTjRnR3FwU3Q3N2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzkzMDQzCWZpbGU6dGF1cmktYXBwXzAuMS4wX3g2NF9lbi1VUy5tc2kKQ041SHpLdE5uUE02NnAzNWk0VVY0Zm94Q0VYMXlCbVZXa0RnYTg0djhXa3pVSzg2S2F1NXBvYkFGOG5qSldPR0hiNW9UaENzclhyZTBYY2ZFekpmQ1E9PQo=",
-      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.1.0/tauri-app_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkkyZVR4VE5PQmVLM0o5TytsTWRWenJNckczZ1FXTjJXM2cwM0FXNTNSYnJxanVWY3dON3JCRlJXQkxLQVA5VjVCaUZGcHpEcHYyeWY2YVJTT2pBdFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA0OTAxCWZpbGU6Q1NUcmFja2VyXzAuMS4wX3g2NF9lbi1VUy5tc2kKZUF5dHBGRVVRRU1FaDYwM3VNQ1ZsQk1NTStmcnhUOWNDMSs2Mlo1M2lrYnNHNWhMVnMyT1ZBRkdQbndRcGJ4VnpRVStPYkxtOUxrSTFaYlRQem93Q3c9PQo=",
+      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.1.0/CSTracker_0.1.0_x64_en-US.msi"
     }
   }
 }
