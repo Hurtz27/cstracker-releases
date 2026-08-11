@@ -1,10 +1,10 @@
 {
   "version": "0.1.2",
-  "notes": "CSTracker Release v0.1.2 - Dynamic Sidebar Versioning & OTA Update Test",
-  "pub_date": "2026-08-10T17:44:00Z",
+  "notes": "CSTracker Release v0.1.2 - Dynamic Sidebar Versioning & OTA Fix",
+  "pub_date": "2026-08-10T18:13:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkhmUjN2aXhIREVFVXlsWkdtSGo1Nk5oYWMwbllCUlRPOUp0Q21KbmNkdXVENDN0ZlRWZi9RWXFBeHJZK1NaZUtHUUFSSnFaK21EcHlrbWlRYXFOQ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA1NDU0CWZpbGU6Q1NUcmFja2VyXzAuMS4yX3g2NF9lbi1VUy5tc2kKYnVEZ0w0djd4RkZFam9GUitvUlN0WTBwYU5ROCtZaGNjaTdyQ1huSk9lM2xVQkVUdlV6Y0ZORU1tckQ5dHY5MUVGc3FIc0tySGM2YW41UGh5MjJrRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkw3WGNpY3pRZ0c5WFFmc0MrcWMwdW5QaVVJS0xHbDUvc1BKQWJsUTQ4OEFFTngwM1NyUTU4SEdIY2FjWkpZUTNCWGNaVGMyUTNUa0NsSWZvUHBnT1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA3MTg2CWZpbGU6Q1NUcmFja2VyXzAuMS4yX3g2NF9lbi1VUy5tc2kKNnFKQUUrK015RHRVN3poTzl0aE1RTTRFeDFib1d5L2xSNzdkV2gyMVRFc2MzbnUvOGMvMG84eGJ2Y3lTS0MzeUVoVk5ueGJUL0o5djk5SW5CUTcwQWc9PQo=",
       "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.1.2/CSTracker_0.1.2_x64_en-US.msi"
     }
   }
