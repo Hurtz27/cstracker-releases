@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "CSTracker Release v0.1.2 - Dynamic Sidebar & Rich Update Progress Bar",
-  "pub_date": "2026-08-10T18:19:00Z",
+  "version": "0.2.0",
+  "notes": "CSTracker v0.2.0 Beta Release: Hardened database RLS policies, server-side Edge Function proxy for Power Automate and Resend, and role-based permissions.",
+  "pub_date": "2026-08-12T22:52:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkkwNUNLNVBUQjlSaFdNYjBlSm4vbXo0UzhaU1ZpbVhDQ2JXeTFaUXc2RTRoNzFFdnBkeFVaL0ExVk5BSnlkVnBHRXp6NTVDQy9WNm80dHlBeDRNbndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA3NTU0CWZpbGU6Q1NUcmFja2VyXzAuMS4yX3g2NF9lbi1VUy5tc2kKUWVZMVhZNEFsTjk1dWVYdk14eklMR1ZrUkk1eHVUcUx2Wm9xanE4R1NHVVV5MEdFRVhWemcrWGYwWWd0b3I0Q1BYMVFFTko2ZS9DcFNEcEp3SnA5Q2c9PQo=",
-      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.1.2/CSTracker_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkZWd1lJSXdvZitTd29aTFlNZEtiMlY3dE5Cc09qT0JKbkFUTmxHV1QzU0RURjhDMDAzWHE1bXhhMTd5aFdNcDhBNGc1REFOT2pFS0tCbkxLUmdwcWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTk2NzE4CWZpbGU6Q1NUcmFja2VyXzAuMi4wX3g2NF9lbi1VUy5tc2kKNmRkb3QzazVCdEpyNEFOL0tZMElPUTE2Z3BMazN1VzdybHdJQUh1WlphWDhSa1ZpNUZhK1BjZUJjci9NWWhiK0tKVSthMGF3cHkveUwxbmovZXJ3RHc9PQo=",
+      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.0/CSTracker_0.2.0_x64_en-US.msi"
     }
   }
 }
