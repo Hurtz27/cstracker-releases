@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Daily reminder digest fixes: case-insensitive activity matching, Completed with Action Required inclusion, date normalization, and dynamic manager/coordinator CC routing.",
-  "pub_date": "2026-08-13T10:21:00Z",
+  "version": "0.2.2",
+  "notes": "Automated daily reminder engine enhancements: local timezone to UTC conversion, Monday-Friday schedule filtering, inclusion of Completed activities with pending items, dynamic multi-project coordinator CC routing, and PENDING DELIVERABLES header standardization.",
+  "pub_date": "2026-08-14T18:51:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkRoNnpDSUxUc2tvZWpJRm1sQUd4OG90TkxUOG1Ma0RYS1RBMVNzRkNjam1DQ3JIb0JHV2hrMTFwU3FIbWx3dlp2dS9rcFFGdHpzc21HejNzVmVCdGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjM4MDc4CWZpbGU6Q1NUcmFja2VyXzAuMi4xX3g2NF9lbi1VUy5tc2kKd3BqOWNucmNUNXY1aFQxQ3BuRmU5Vm83dXEwb0pybDZ5NU84aUdJTitlL05BZ0x1d09iK3g0aVVOUnJmWGRGd0FoMjRMVlpDcitYUjl0ZVVXakFQQ3c9PQo=",
-      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.1/CSTracker_0.2.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkRwdHJEbDdROGZJeDJRUkUzY2lrcjQrOU5rQXZMQSthRVByR2QyaTViQnhhZzlEUEtCbWk5ZmJKM2ZMdStsQTdDTVFGM0FuTTZ5VFVONEM4eHFOS2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzMzNDkwCWZpbGU6Q1NUcmFja2VyXzAuMi4yX3g2NF9lbi1VUy5tc2kKVG90YmhqK0JOdFBNVlVSVWJ3Z01lNVFTSEpjaFd2UEFUTEpNWDBpL0FQMkwyRExHazQwWGY3TktNZ3JSYWNEVmdCNTJ3QTBXTjlQeTRmdEozQ1U4Q0E9PQo=",
+      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.2/CSTracker_0.2.2_x64_en-US.msi"
     }
   }
 }
