@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "Fix recurring mandatory password change loop by resolving PostgreSQL RLS permissions on the personnel table via a secure complete_user_password_change RPC function.",
-  "pub_date": "2026-08-18T04:38:00Z",
+  "version": "0.2.4",
+  "notes": "SharePoint landing page deployment automation, configurable daily reminder schedule by day of the week, timezone-safe date parsing, and account support contacts.",
+  "pub_date": "2026-09-09T22:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkhKdlFxeGx0SStlRUg3VHoyOXJYNjN3YmlhNjREbW1RdFNXZ0Z4bUJIemRYcG9LR280a3Q1QzdRUE45akh3ZmxsV1NXKzFVZlFYUk0vQWJ2NnNiMUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDI3OTE2CWZpbGU6Q1NUcmFja2VyXzAuMi4zX3g2NF9lbi1VUy5tc2kKYmZ1N3NESHZtcG9DVFNOR2lPL2NIMkxyZmtzNnZkbytjVVI2YzN3T2Vqdi9kQjN5Q3lLU2w4b1BSSnYzbnBKcnNRNHZQbk1ya04yVGJWKzFNZVpLQ1E9PQo=",
-      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.3/CSTracker_0.2.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkRJVEVSLzNEalQ2N3piR2FNTlhSemN3Wldzb2hGbFNaeVFWaWJlYUVXTlRBeGw3clROQVNDNmZwZHZWZnpxNFdZZkdWKzVVSnVMTWdrbXQ2WFB3eHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkxOTAyCWZpbGU6Q1NUcmFja2VyXzAuMi40X3g2NF9lbi1VUy5tc2kKMllpQ1MzU1J1ME5tbE5JNXBlVGhmc0VEdEUxeVp3TTB4NisxaGppSEgvTVpuK0FGbi9CVHhHNXB5OEJBRi9KTitnWGdqdmRwNmdTRE9oNzNadjhTQlE9PQo=",
+      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.4/CSTracker_0.2.4_x64_en-US.msi"
     }
   }
 }
