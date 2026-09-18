@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "SharePoint landing page deployment automation, configurable daily reminder schedule by day of the week, timezone-safe date parsing, and account support contacts.",
-  "pub_date": "2026-09-09T22:15:00Z",
+  "version": "0.1.3",
+  "notes": "TP Explorer v0.1.3 release: Enforces strict 4-digit DCS PIN extraction, byte-stuffed variable token scanning, and 2-digit history log support.",
+  "pub_date": "2026-09-18T17:08:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkRJVEVSLzNEalQ2N3piR2FNTlhSemN3Wldzb2hGbFNaeVFWaWJlYUVXTlRBeGw3clROQVNDNmZwZHZWZnpxNFdZZkdWKzVVSnVMTWdrbXQ2WFB3eHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkxOTAyCWZpbGU6Q1NUcmFja2VyXzAuMi40X3g2NF9lbi1VUy5tc2kKMllpQ1MzU1J1ME5tbE5JNXBlVGhmc0VEdEUxeVp3TTB4NisxaGppSEgvTVpuK0FGbi9CVHhHNXB5OEJBRi9KTitnWGdqdmRwNmdTRE9oNzNadjhTQlE9PQo=",
-      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.4/CSTracker_0.2.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWhrMVVUZ2Z2aXFKUDVYQnZxbWtQcEh3Rm9xK3RJaVNTbWxPcEROVUd5UFdiT1ppMXUxUy8rakxyMjNtNTNFSEN1WE5MNTRxKzRZT2x5eTNGeUg1WUZKUEdweFVtd1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzUxMjg0CWZpbGU6VFAgRXhwbG9yZXJfMC4xLjNfeDY0X2VuLVVTLm1zaQpmeUF0VlExblllQ1RpdVFSVytBUmJpM1JmTmJMVm15V3J0bEgxOExJamJROGpuV3NYeEtpdUFYMzBGTWdmNnpoYThpREorOEFQUTJNeSthbWZsWm5Cdz09Cg==",
+      "url": "https://github.com/Hurtz27/TPExplorer/releases/download/v0.1.3/TP.Explorer_0.1.3_x64_en-US.msi"
     }
   }
 }
