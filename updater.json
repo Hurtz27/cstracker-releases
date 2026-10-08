@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "Multi-select activity status filter, direct SharePoint deliverables folder links in daily reminders & assignment emails, CSTracker upload notice banner, and simplified in-table deliverable proof upload workflow.",
-  "pub_date": "2026-10-02T21:00:00Z",
+  "version": "0.2.6",
+  "notes": "Fixed customer site matching for assignment notifications, resolved dropdown popover transparency in Activity modal, unified Activity Type and Status with custom Comboboxes featuring orange hover/selected highlights, and fixed directory search icon overlap.",
+  "pub_date": "2026-10-08T00:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkU4WUkzNjdCMzRYUFhONlRmenJUNFlNTzNJK3dLK0VIQUMzQ3pqTW9Ta3RVVERVZ3JEMkJETjRNcmcxMmp4TEN0bnpCaXhVTU9raG9qYm9WSGU4QlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTc0NjIzCWZpbGU6Q1NUcmFja2VyXzAuMi41X3g2NF9lbi1VUy5tc2kKV1lwWmZMeGtUVy9ycC9rL2tOaW9NOEFDWUhQSDh5Nmc1SFV2L1B4QWJjZWFHQmNmS1ZDRWIzR0J3UUxhSCtvSXJwRUl3d05xTFptd1RYWGZTM2IwQ1E9PQo=",
-      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.5/CSTracker_0.2.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkt4MGNSUnNoM3g3c1pOQlhZb05ITW1wVDVjc2xRcEErYmRXVzVvSFdzUmhSNjhkNUpjWkx2Q2dwNVpsWkVBQ3NRdHBVcGFUU2o0VnZZNEVKZkp6Q2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE5OTc3CWZpbGU6Q1NUcmFja2VyXzAuMi42X3g2NF9lbi1VUy5tc2kKbU9Wa1lTdm1jZWdlMmFROEFSY3dXbWhSazJyYkg2MlBIYkUzbmFzem1EN1JiOFROTm9EV2R5V1QreWZoTjZxWDhEMFR5ZzkrOTFVTnB1ajNZbU9CQmc9PQo=",
+      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.2.6/CSTracker_0.2.6_x64_en-US.msi"
     }
   }
 }
