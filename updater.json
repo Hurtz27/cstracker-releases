@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Added Weekly Coordinator Summary email engine with interactive preview and schedule configuration, added Daily Reminder interactive preview modal, removed public sign-up on login page, and enhanced deliverable date auto-sync.",
-  "pub_date": "2026-10-16T23:53:00Z",
+  "version": "0.3.1",
+  "notes": "Sanitized prohibited SharePoint characters (\", *, :, <, >, ?, /, \\, |) across activity creation, file upload dispatch, and folder navigation to ensure files are saved into SharePoint and folder links open without 404 errors.",
+  "pub_date": "2026-11-12T01:28:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUkxYVEZDUVRnclVrd1Q1SUIyS0NmbDhnQUdJM1gzb1ZTQkRiR1pLa1lCdVZCYXNJSnVkMTVZOEtDUWxpTENFWE5MK1dLSGdKb1kwa2l3V2M2ZFNBMVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTk0Nzg4CWZpbGU6Q1NUcmFja2VyXzAuMy4wX3g2NF9lbi1VUy5tc2kKZ0RJcGFoQXBxRmZUL01TTDhUNFpLK3B3aEhHeXlOZElNbzNxNGhvd3ZGcGYzK0NsNGljMmRLUHlGOUJzeTR0cExvd1Y1T3FaTk5teTYwU1pETW5NRFE9PQo=",
-      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.3.0/CSTracker_0.3.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUM4eVBVdndKUlBsb3BzVTNiMGFERVZIelllWW1aa1IvdkNsNWJxQXJPUzJxMXhwRTMzOWpkNllkbFduSHlhcXN4eWcvdmJsaWxiV0Rvb3FaOGUzWDhHMWRiL2R3bFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ2ODI0CWZpbGU6Q1NUcmFja2VyXzAuMy4xX3g2NF9lbi1VUy5tc2kKL2hZZkFSR0VkTzhCanA5a1BHTFRNa2F2TzdPVU1uYmk1aVloZ0hvbHZWTnFKajFTTVZBYjRZVmUwWmVVMFpQOXc5SGNQakFFcWdFOGJIY3VQUnBJQ2c9PQo=",
+      "url": "https://github.com/Hurtz27/cstracker-releases/releases/download/v0.3.1/CSTracker_0.3.1_x64_en-US.msi"
     }
   }
 }
